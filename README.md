@@ -44,6 +44,7 @@ A community driven list of infosec events around the world.
 - [r2con](https://rada.re/con/2018/) | Barcelona | September 5-8th, 2018
 - [Navaja Negra](https://www.navajanegra.com/2018/) | Albacete | October 4th, 2018
 - [Sec/Admin](https://www.secadmin.es/) | Sevilla | October 26th, 2018
+- [BitUp](https://bitupalicante.es/) | Alicante | October 27th, 2018
 - [CyberCamp](https://cybercamp.es/) | Málaga | November 29th - December 2nd, 2018
 
 ## Sweden
