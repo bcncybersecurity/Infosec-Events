@@ -75,6 +75,7 @@ A community driven list of infosec events around the world.
 ## United States
 
 - [ShmooCon](http://shmoocon.org/) | Washington, D.C | January 19th-21th, 2018
+- [BrrCon](https://brrcon.com/) | Minneapolis | June 8th, 2018
 - [DEF CON](https://defcon.org/) | Las Vegas | August 9th-12th, 2018
 - [DerbyCon](https://www.derbycon.com/) | Louisville | October 5th-8th, 2018
 
