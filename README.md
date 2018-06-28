@@ -66,6 +66,7 @@ A community driven list of infosec events around the world.
 - [OWASP AppSec Europe](https://2018.appsec.eu/) | London | July 2nd-6th, 2018
 - [SteelCon](https://www.steelcon.info/) | Sheffield | July 7th, 2018
 - [BSides Manchester](https://www.bsidesmcr.org.uk/) | August 16th, 2018
+- [44CON](https://44con.com/) | September 12th-14th, 2018
 - [CONfidence](https://confidence-conference.org/) | London | October 4th-6th, 2018
 
 ## Poland
